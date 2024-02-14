@@ -1,4 +1,3 @@
- [![MasterHead](http://media.licdn.com/dms/image/D4D03AQH1rD6gkAOmJg/profile-displayphoto-shrink_200_200/0/1703293050378?e=2147483647&v=beta&t=ati6lGvDnLu6g-mVpbAuxc_YYDoJIzTI77oJYtASamc)
 
 <h1 align="center">Merhaba 👋, ben Mehmet İshal TAŞ</h1>
 <h3 align="center">ben backend geliştirici'yim türkyede yaşıyorum</h3>
